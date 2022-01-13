@@ -2,4 +2,4 @@
 
 Voici l'ecran de présentation d'une application de livraison
 
-![Capture](https://user-images.githubusercontent.com/83733778/149369747-e957da3a-705b-4b80-a2d9-8e685d440a39.PNG)
+![onBoarding Screen](https://user-images.githubusercontent.com/83733778/149370511-03200507-071b-4df3-9cad-fdf31be0f14c.png)
